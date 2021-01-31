@@ -1,0 +1,69 @@
+.single-tour {
+  margin: 2rem 0;
+  border-radius: 20px;
+  transition: 0.2s;
+  background: #fff;
+}
+
+.single-tour img {
+  width: 100%;
+  height: 20rem;
+  object-fit: cover;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+footer {
+  padding: 30px;
+  display: block;
+}
+
+footer .tour-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.tour-info .tour-price {
+  padding: 10px;
+  background: rgb(140, 197, 140);
+  border-radius: 8px;
+  color: green;
+}
+
+.single-tour p button {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  background: transparent;
+  color: rgb(53, 53, 255);
+  padding: 5px;
+  font-size: 1rem;
+  text-decoration: underline;
+}
+
+.single-tour .delete-btn {
+  display: block;
+  outline: none;
+  border: none;
+  width: 180px;
+  height: 40px;
+  border-radius: 5px;
+  background: rgb(248, 47, 47);
+  color: white;
+  font-family: inherit;
+  margin: 1rem auto;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.delete-btn:hover {
+  background: rgb(160, 12, 12);
+}
+
+@media screen and (max-width: 768px) {
+  .single-tour p {
+    font-size: 0.8rem;
+  }
+}
