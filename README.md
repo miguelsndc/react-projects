@@ -12,4 +12,4 @@ A collection of generic projects, to practice react.
 - Props
 - How to display list content
 
-i I wasn't able to put all the projects working in a single repository, so I kept them in external folders, and published here only the code of the "public" and "src" folders, I hope you understand. 
+Since I'm planning to publish all the projects, there's no way to keep all the code from all the projects in one repository, so I'll publish here only the code from the "public" and "src" folders of each project.
