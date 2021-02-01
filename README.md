@@ -12,4 +12,15 @@ A collection of generic projects, to practice react.
 - Props
 - How to display list content
 
+### Tours
+
+[project here](https://react-tours-2.netlify.app/)
+
+##### Things Learned
+
+- useEffect Hook
+- How to Fetch data with useEffect
+- Prop Drilling
+- Conditional Rendering
+
 Since I'm planning to publish all the projects, there's no way to keep all the code from all the projects in one repository, so I'll publish here only the code from the "public" and "src" folders of each project.
