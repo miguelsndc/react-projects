@@ -1,6 +1,6 @@
 # React Projects
 
-A collection of generic projects, to practice react.
+A collection of projects, to practice react.
 
 ## Birthday Reminder
 
