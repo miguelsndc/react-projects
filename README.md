@@ -36,4 +36,4 @@ Used : <br>
 - Started using a single CSS file for a single component style. 
 - How to implement a preloader
 
-Since I'm planning to publish all the projects, there's no way to keep all the code from all the projects in one repository, so I'll publish here only the code from the "public" and "src" folders of each project.
+
